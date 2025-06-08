@@ -3,7 +3,6 @@ I'm Akito Inoue(a.k.a akeit0).
 C# lover.
 My main focus is to contribute to the OSS.
 ## MainWorks
-### Products
 ### Maintainance
 * [Lua-CSharp](https://github.com/nuskey8/Lua-CSharp)
 ### Contribution
@@ -13,5 +12,6 @@ My main focus is to contribute to the OSS.
 
 ### Sponsorship
 
-[Sponsor](https://github.com/sponsors/Akeit0)
+[GitHub Sponsors](https://github.com/sponsors/Akeit0)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/akeit0)
